@@ -2555,6 +2555,14 @@
 			color: #ffffff;
 		}
 
+		#header .garry-pottr {
+			width: 100px;
+			height: 130px;
+			background-image: url('../../images/gazzap-small.png');
+			background-size: 100px;
+			margin: 0 auto;
+		}
+
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
@@ -2669,6 +2677,10 @@
 
 		#footer .formerize-placeholder {
 			color: rgba(255, 255, 255, 0.3) !important;
+		}
+
+		#footer .coolest-projects {
+			background-image: url('../../images/Coolest-Project-Logo-Final3x.png');
 		}
 
 		#footer form {
