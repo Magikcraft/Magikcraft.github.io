@@ -2679,7 +2679,11 @@
 			color: rgba(255, 255, 255, 0.3) !important;
 		}
 
-		#footer .coolest-projects {
+		.coolest-projects {
+			width: 500px;
+			height: 334px;
+			background-size: 500px;
+			margin: 0 auto;
 			background-image: url('../../images/Coolest-Project-Logo-Final3x.png');
 		}
 
